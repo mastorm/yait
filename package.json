@@ -1,0 +1,8 @@
+{
+  "name": "yait",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/mastorm/yait.git",
+  "author": "Mathias Storm",
+  "license": "MIT"
+}
